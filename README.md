@@ -6,3 +6,4 @@ OpenCV's DNN was used for face detection.
 - [ ] Optimize threads.
 - [ ] Add a way to get depth information for better visualization. 
 - [ ] Add licenses and credit used resources
+
